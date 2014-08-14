@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Drupal Resume CV Feature feature.
+ */
+
+include_once 'drupal_resume_cv_feature.features.inc';
